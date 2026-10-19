@@ -7,7 +7,17 @@
 <p align="center">Every business on Google Maps, in a spreadsheet. Free, on your own Mac.<br><a href="https://parallaxleads.com">parallaxleads.com</a></p>
 
 <p align="center">
-  <a href="https://github.com/matixacik-cell/parallax-releases/releases/latest/download/Parallax.dmg"><img src="https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>
+  <a href="https://github.com/matixacik-cell/parallax-releases/releases/latest/download/Parallax.dmg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/download-dark.png">
+      <img src="assets/download-light.png" width="260" alt="Download for Mac">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Parallax.dmg, 117 MB. Apple silicon, macOS 12 or newer. Free.</sub></p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-0.1.0-000000?style=for-the-badge" alt="Version 0.1.0">
   <img src="https://img.shields.io/badge/Apple%20silicon-000000?style=for-the-badge" alt="Apple silicon">
   <img src="https://img.shields.io/badge/price-free-000000?style=for-the-badge" alt="Free">

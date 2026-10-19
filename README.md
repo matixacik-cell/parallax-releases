@@ -21,6 +21,6 @@ After that the app opens like any other and walks you through connecting your We
 
 ## Updates
 
-The app checks this page for new versions and updates itself.
+New versions appear on the Releases page. The app does not update itself yet: download the new dmg and drag Parallax into Applications over the old one. Your runs and your key stay where they are.
 
 Site: https://parallaxleads.com. Questions: hello@parallaxleads.com.

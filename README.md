@@ -32,7 +32,7 @@ Pick a trade and a place. Parallax searches Google Maps town by town and writes 
 - Businesses you already have from an earlier run are skipped, so every run brings new ones. You can turn that off.
 - You set the cap: a number of businesses, a time limit, or everything.
 
-**How fast, roughly:** one search takes about 20 seconds and brings about 30 businesses. Two to five searches run at once, picked from your Mac's memory (three on a 16 GB Mac). One town and one search word is done in a minute. A whole state and one search word is about 400 searches: around 45 minutes on a 16 GB Mac and about 2.5 GB of proxy data.
+**How fast, roughly:** one search takes about 20 seconds and brings about 30 businesses. Two to five searches run at once, picked from your Mac's memory (three on a 16 GB Mac). One town and one search word is done in a minute. A whole state and one search word is about 400 searches: around 45 minutes on a 16 GB Mac and about 5 GB of proxy data.
 
 ## Requirements
 
@@ -117,6 +117,10 @@ No account. No server. Your results and your key live in your own Library folder
 ## Updates
 
 New versions appear on the [Releases](https://github.com/matixacik-cell/parallax-releases/releases) page. The app does not update itself yet: quit Parallax, download the new dmg, drag Parallax into Applications and choose Replace when macOS asks. Your runs and your key stay where they are.
+
+## Licence
+
+Parallax is free to use. The code is not open source.
 
 ## Links
 

@@ -36,7 +36,7 @@ Pick a trade and a place. Parallax searches Google Maps town by town and writes 
 
 ## Requirements
 
-- A Mac with Apple silicon (M1 or newer), macOS 13 or newer.
+- A Mac with Apple silicon (M1 or newer), macOS 12 or newer. Intel Macs are not covered by this build yet.
 - Google Chrome installed. Parallax drives a hidden copy of it for the searches.
 - A Webshare account for the proxies (below).
 

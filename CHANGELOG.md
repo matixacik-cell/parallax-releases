@@ -8,5 +8,5 @@ First public build.
 - New run: pick a trade and a place, see the squares on the map, set a cap, start.
 - Live run: the map lights up square by square, the table fills, one click export to a spreadsheet.
 - Your own proxies: a three step guide connects your Webshare account on first open.
-- Connector for Claude, Claude Code, Cursor, VS Code and Codex, one button each in Settings. Small searches come back in one call.
+- Connector for Claude, Claude Code, Cursor, VS Code and Codex, one button each in Settings. Small searches come back to the assistant in one call.
 - Spreadsheet cells are safe to open in Excel even when a business is named like a formula.

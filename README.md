@@ -7,7 +7,7 @@
 <p align="center">Every business on Google Maps, in a spreadsheet. Free, on your own Mac.<br><a href="https://parallaxleads.com">parallaxleads.com</a></p>
 
 <p align="center">
-  <a href="https://github.com/matixacik-cell/parallax-releases/releases/latest/download/Parallax.dmg">
+  <a href="https://download.parallaxleads.com/Parallax.dmg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/download-dark.png">
       <img src="assets/download-light.png" width="260" alt="Download for Mac">
@@ -52,7 +52,7 @@ Pick a trade and a place. Parallax searches Google Maps town by town and writes 
 
 ## Download
 
-1. Download [Parallax.dmg](https://github.com/matixacik-cell/parallax-releases/releases/latest/download/Parallax.dmg), open it, drag Parallax into Applications.
+1. Download [Parallax.dmg](https://download.parallaxleads.com/Parallax.dmg), open it, drag Parallax into Applications.
 2. First open: macOS says it cannot verify the app, because we do not have an Apple developer certificate yet. Right click Parallax in Applications, choose Open, then Open again. On macOS 15 or newer there is no Open button: double click Parallax, let macOS refuse it, then open System Settings, Privacy and Security, scroll down and click Open Anyway.
 3. The app walks you through connecting your proxies. Three steps, about three minutes. Look around first skips it; Settings, Connect proxies brings it back.
 

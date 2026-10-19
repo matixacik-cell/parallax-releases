@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/matixacik-cell/parallax-releases/releases/latest/download/Parallax.dmg"><img src="https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>
-  <img src="https://img.shields.io/github/v/release/matixacik-cell/parallax-releases?style=for-the-badge&color=000000&label=version" alt="Latest version">
+  <img src="https://img.shields.io/badge/version-0.1.0-000000?style=for-the-badge" alt="Version 0.1.0">
   <img src="https://img.shields.io/badge/Apple%20silicon-000000?style=for-the-badge" alt="Apple silicon">
   <img src="https://img.shields.io/badge/price-free-000000?style=for-the-badge" alt="Free">
   <a href="https://parallaxleads.com"><img src="https://img.shields.io/badge/parallaxleads.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="parallaxleads.com"></a>

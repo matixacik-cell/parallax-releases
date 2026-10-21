@@ -18,7 +18,7 @@
 <p align="center"><sub>Parallax.dmg, 117 MB. Apple silicon, macOS 12 or newer. Free.</sub></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.1.0-000000?style=for-the-badge" alt="Version 0.1.0">
+  <img src="https://img.shields.io/badge/version-0.2.1-000000?style=for-the-badge" alt="Version 0.2.1">
   <img src="https://img.shields.io/badge/Apple%20silicon-000000?style=for-the-badge" alt="Apple silicon">
   <img src="https://img.shields.io/badge/price-free-000000?style=for-the-badge" alt="Free">
   <a href="https://parallaxleads.com"><img src="https://img.shields.io/badge/parallaxleads.com-000000?style=for-the-badge&logo=safari&logoColor=white" alt="parallaxleads.com"></a>
